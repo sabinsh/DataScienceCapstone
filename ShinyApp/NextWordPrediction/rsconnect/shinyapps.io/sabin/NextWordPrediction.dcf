@@ -1,0 +1,9 @@
+name: NextWordPrediction
+account: sabin
+server: shinyapps.io
+appId: 130286
+bundleId: 580200
+url: https://sabin.shinyapps.io/NextWordPrediction/
+when: 1475900132.45189
+asMultiple: FALSE
+asStatic: FALSE
